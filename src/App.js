@@ -14,7 +14,7 @@ function App() {
       <h2 className='py-2 text-lg'>The No 1 Art Gallery In the World </h2>
       <hr/>
       <h1 className='mt-4 text-lg font-bold'><u>GALLERY</u></h1>
-      <div className="flex flex-wrap justify-center items-center gap-6 mt-6 ">
+      <div className="m-10 flex flex-wrap justify-center items-center gap-6 mt-6 ">
       <img src={art1} className="w-72 h-72 " alt="logo" />
       <img src={art2} className="w-72 h-72" alt="logo" />
       <img src={art3} className="w-72 h-72" alt="logo" />
